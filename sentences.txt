@@ -1,0 +1,5 @@
+O Machine Learning é uma subárea da Inteligência Artificial.
+Chatbots podem ser treinados para responder perguntas específicas.
+Processamento de Linguagem Natural é fundamental para entender o conteúdo de textos.
+PDFs podem conter informações valiosas para empresas.
+Modelos de IA podem ser utilizados para automatizar processos repetitivos.
